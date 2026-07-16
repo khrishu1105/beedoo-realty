@@ -4,3 +4,6 @@ _build.py
 _build_single.py
 貝多不動產_複製版_單檔.html
 .DS_Store
+
+# 任何中文檔名的單檔打包版都不上線
+*單檔*.html

@@ -1,0 +1,6 @@
+# 只部署網站本體，排除備份與建置工具
+_original/
+_build.py
+_build_single.py
+貝多不動產_複製版_單檔.html
+.DS_Store
